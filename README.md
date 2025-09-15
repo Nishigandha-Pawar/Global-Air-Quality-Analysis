@@ -1,9 +1,9 @@
 # Global-Air-Quality-Analysis
 
-# 🌍 Global Air Quality Analysis: EDA & Predictive Modeling
+# 🌍 Global Air Quality Analysis: EDA 
 
 ## 📌 Project Overview
-This project analyzes **global air quality data** using **Exploratory Data Analysis (EDA)** and applies machine learning models to predict **Air Quality Index (AQI)** and categorize it into health-based groups (Good, Moderate, Unhealthy, etc.).  
+This project analyzes **global air quality data** using **Exploratory Data Analysis (EDA)** and categorize it into health-based groups (Good, Moderate, Unhealthy, etc.).  
 
 The notebook [`Global_Air_Quality_Project.ipynb`](./Global_Air_Quality_Project.ipynb) contains the full workflow with visualizations, feature engineering, and predictive modeling.
 
